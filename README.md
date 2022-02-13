@@ -21,5 +21,14 @@ Success Rate: Trades executed on a respective date is considered a success if th
 
 Returns: Returns mentioned in this blog are not annualized. Annualized return would be much higher than the mentioned returns in this blog. 
 
+Returns observed in the year 2021
+
+![image](https://user-images.githubusercontent.com/49510297/153766493-17fa7d40-224f-460e-9cbf-2060f22e9d23.png)
+
+Returns observed between 2015-2021
+
+![image](https://user-images.githubusercontent.com/49510297/153766511-b458ca85-e779-471a-b52b-16df51d1c1b4.png)
+
+
 Refer to this blog for more details:
 
